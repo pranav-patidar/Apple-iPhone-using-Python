@@ -1,2 +1,3 @@
-# Apple-iPhone-using-Python
-Apple iPhone Data analyzing using Python
+# HR Analytics 
+HR-Analytics-using-Power-BI-and-Excel
+
