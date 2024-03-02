@@ -1,0 +1,34 @@
+HR Analytics Dashboards contain:
+PAGE - 1
+The first page provides an overview of all the four dashboards I created. The second 
+page includes the demographic insights, the third page focuses on turnover analysis 1, the 
+fourth page on turnover analysis 2, and the final page is dedicated to employee wellness. I will explain the content of each page accordingly.
+
+PAGE - 2 : Demographic
+1) Card - Total Employee.
+2) Cluster Bar Chart - Total Attrition by Education Field. 
+3) Donut Chart - Sum of Attrition Count (By adding another column and use DAX Quarries and subtract Attrition count from Employee Count).
+4) Stacked bar Chart - Total Attrition by Work life Balance and Distance from home (By using Data Grouping Method).
+5) Stacked Column Chart - Total Attrition by Age (By using Data Grouping Method).
+6) Clustered Bar Chart - Total Attrition by Martial Status and Gender.
+7) Donut Chart - Total Attrition by Gender (Male and Female).
+
+PAGE - 3 : Turnover Analysis 1
+1) Stacked Bar chart - Total Attrition by job role and gender.
+2) Cluster bar Chart -Total Attrition by Business travel and gender.
+3) Donut Chart- Total Attrition by Department.
+4) Stacked Column Chart- Total Attrition by year in current role and Department.
+5) Table - Total Attrition count by job role.
+
+PAGE - 4 : Turnover Analysis 2
+1) Line Chart - Monthly income and attrition by job role.
+2) Stacked Column Chart - Total Attrition by over time.
+3) Funnel - Total Attrition by job level
+4) Pie Chart - Total Attrition by Performance rating
+5) Clustered Column Chart - Total Attrition by Age and Gender.
+
+PAGE - 5 : Employee Wellness
+1) Card - Average monthly Income and Average Hourly rate
+2) Stacked Column Chart - Total Attrition by Environment, job, and Relationship Satisfactions and performance rating
+3) Stacked Bar Chart - Total Attrition by job involvement.
+4) Pie Chart - Total Attrition by work life balance.
